@@ -3,19 +3,17 @@ import pandas as pd
 import numpy as np
 
 # 1. Title
-st.title("Dashboard Monitoring Data")
+st.title("Dashboard Reza")
 
 # 2. Header
-st.header("Analisis Performa Penjualan")
+st.header("Analisis Performa By Reza")
 
 # 3. Subheader
 st.subheader("Ringkasan Statistik Mingguan")
 
 # 4. Text (Paragraf)
 st.text("""
-Ini adalah contoh penggunaan komponen text di Streamlit. 
-Halaman ini menampilkan data dummy untuk mendemonstrasikan 
-berbagai elemen UI yang tersedia secara default.
+contoh teks menggunakan streamlit yang dibuat dengan VS Code dan diupload digithub
 """)
 
 # 5. Caption
